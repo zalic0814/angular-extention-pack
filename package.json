@@ -1,0 +1,23 @@
+{
+    "name": "angular-extension-pack",
+    "displayName": "Angular Extension Pack",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "ZalicYu",
+    "icon": "icon.png",
+    "repository": "git@github.com:zalic0814/angular-extention-pack.git",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "jakethashi.vscode-angular2-emmet",
+        "angular.ng-template",
+        "cyrilletuzi.angular-schematics",
+        "johnpapa.angular2",
+        "infinity1207.angular2-switcher",
+        "davidbabel.vscode-simpler-icons"
+    ]
+}
